@@ -1,5 +1,8 @@
 # Adobe Experience Platform Consent Collection Mobile Extension
 
+[![](https://img.shields.io/github/v/release/adobe/aepsdk-edgeconsent-ios?style=flat&label=AEPEdgeConsent)]
+[![SPM](https://img.shields.io/badge/SPM-Supported-orange.svg?logo=apple&logoColor=white)](https://swift.org/package-manager/)[![CircleCI](https://img.shields.io/circleci/project/github/adobe/aepsdk-edgeconsent-ios/main.svg?logo=circleci)](https://circleci.com/gh/adobe/workflows/aepsdk-edgeconsent-ios)[![Code Coverage](https://img.shields.io/codecov/c/github/adobe/aepsdk-edgeconsent-ios/main.svg?logo=codecov)](https://codecov.io/gh/adobe/aepsdk-edgeconsent-ios/branch/main)
+
 ## About this project
 
 The AEP Consent Collection mobile extension enables consent preferences collection from your mobile app when using the [Adobe Experience Platform Mobile SDK](https://github.com/Adobe-Marketing-Cloud/acp-sdks) and the Edge Network extension.
